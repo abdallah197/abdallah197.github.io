@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Compilers | Abdallah Bashir</title>
+    <link>https://abdallah197.github.io/tag/compilers/</link>
+      <atom:link href="https://abdallah197.github.io/tag/compilers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Compilers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2020 23:17:25 +0200</lastBuildDate>
+    <image>
+      <url>https://abdallah197.github.io/images/icon_huf6aa2282c16144427e775bed4082022e_60978_512x512_fill_lanczos_center_2.png</url>
+      <title>Compilers</title>
+      <link>https://abdallah197.github.io/tag/compilers/</link>
+    </image>
+    
+    <item>
+      <title>Compiler</title>
+      <link>https://abdallah197.github.io/project/compiler/</link>
+      <pubDate>Sun, 21 Jun 2020 23:17:25 +0200</pubDate>
+      <guid>https://abdallah197.github.io/project/compiler/</guid>
+      <description>&lt;p&gt;Consists of three stages :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lexer&lt;/li&gt;
+&lt;li&gt;parser&lt;/li&gt;
+&lt;li&gt;compiler&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;it takes C code as an input and produces an assembly code in the x86 instruction set .&lt;/p&gt;
+&lt;p&gt;Currently implemented features :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Arithmetic and logical operation&lt;/li&gt;
+&lt;li&gt;Variables&lt;/li&gt;
+&lt;li&gt;Switch&lt;/li&gt;
+&lt;li&gt;For loop&lt;/li&gt;
+&lt;li&gt;While loop&lt;/li&gt;
+&lt;li&gt;Break&lt;/li&gt;
+&lt;li&gt;Function definition&lt;/li&gt;
+&lt;li&gt;Function call&lt;/li&gt;
+&lt;li&gt;using Constant string&lt;/li&gt;
+&lt;li&gt;If statements&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

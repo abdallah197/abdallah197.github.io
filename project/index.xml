@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Abdallah Bashir</title>
+    <link>https://abdallah197.github.io/project/</link>
+      <atom:link href="https://abdallah197.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 21 Jun 2020 23:21:13 +0200</lastBuildDate>
+    <image>
+      <url>https://abdallah197.github.io/images/icon_huf6aa2282c16144427e775bed4082022e_60978_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://abdallah197.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Music Generator Using Deep Learning</title>
+      <link>https://abdallah197.github.io/project/ms/</link>
+      <pubDate>Sun, 21 Jun 2020 23:21:13 +0200</pubDate>
+      <guid>https://abdallah197.github.io/project/ms/</guid>
+      <description>&lt;p&gt;Music Generation has become an active area of research for the past decade with
+dominance of Neural Networks across the AI field. Using such systems can aid
+musicians and composers in the process of making music. It can also be in great
+help for beginners that in a hunt for creating creative melodies and harmony during
+learning. Our project tries to use state of the art approaches in tackling this problem
+as a language modeling approach. Similar approaches were used in Musenet Open
+AI and Musicautobot. It processes midi files and converts it to text to build the
+language model. We then use the language model to predict and generate music. We used musicautobot, fastai and music 21 as tools to build the model.
+We have trained two models for classic and Pop music. We forwarded some of the
+model results to a musician to evaluate it and his response was that the model was
+capable of building simple mono-rhythm predictions and all the measures are in a
+correct tempo and beat stress, however, most of the endings of the predictions were
+bad in terms of harmony and melody.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Enhancing Immunity to fight COVID-19</title>
+      <link>https://abdallah197.github.io/project/covid19-diet/</link>
+      <pubDate>Sun, 21 Jun 2020 23:21:04 +0200</pubDate>
+      <guid>https://abdallah197.github.io/project/covid19-diet/</guid>
+      <description>&lt;p&gt;AN undergoing project that aims to recommend better diet system in order to fight the novel COVID-19 virus. we analyze dietry data from all countries accross the world to figure the common
+dietry habits between countries with high recovery rate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Compiler</title>
+      <link>https://abdallah197.github.io/project/compiler/</link>
+      <pubDate>Sun, 21 Jun 2020 23:17:25 +0200</pubDate>
+      <guid>https://abdallah197.github.io/project/compiler/</guid>
+      <description>&lt;p&gt;Consists of three stages :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;lexer&lt;/li&gt;
+&lt;li&gt;parser&lt;/li&gt;
+&lt;li&gt;compiler&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;it takes C code as an input and produces an assembly code in the x86 instruction set .&lt;/p&gt;
+&lt;p&gt;Currently implemented features :&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Arithmetic and logical operation&lt;/li&gt;
+&lt;li&gt;Variables&lt;/li&gt;
+&lt;li&gt;Switch&lt;/li&gt;
+&lt;li&gt;For loop&lt;/li&gt;
+&lt;li&gt;While loop&lt;/li&gt;
+&lt;li&gt;Break&lt;/li&gt;
+&lt;li&gt;Function definition&lt;/li&gt;
+&lt;li&gt;Function call&lt;/li&gt;
+&lt;li&gt;using Constant string&lt;/li&gt;
+&lt;li&gt;If statements&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>WhatsApp GPT2 Chatbot</title>
+      <link>https://abdallah197.github.io/project/whatsapp/</link>
+      <pubDate>Sun, 21 Jun 2020 23:05:04 +0200</pubDate>
+      <guid>https://abdallah197.github.io/project/whatsapp/</guid>
+      <description>&lt;p&gt;The project uses the Twilio API for Whatsapp together with Flask web application framework to handle sending and receiving messages to WhatsApp. And Huggingface implementation of
+DialoGPT which is a large-scale pretrained dialogue response generation model for multiturn conversations. 
+&lt;a href=&#34;https://github.com/abdallah197/Whatsapp-HuggingFace-Chatbot&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; for the repo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Masakhane NMT</title>
+      <link>https://abdallah197.github.io/project/masakhane/</link>
+      <pubDate>Thu, 30 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://abdallah197.github.io/project/masakhane/</guid>
+      <description>&lt;p&gt;Masakhane is an research effort for NLP for African languages that is OPEN SOURCE, CONTINENT-WIDE, DISTRIBUTED and ONLINE. The initiave repository houses the data, code, results and research for
+building open baseline NLP results for African languages. I contributed to the project with gathering parallel data in Modern Standard Arabic and modeling it using Joeynmt transformer based library. The team had an accepted submission in Africa4NLP workshop at ICLR&#39;20 and also submitted to EMNLP&#39;20.
+
+&lt;a href=&#34;https://github.com/masakhane-io/masakhane-mt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; to github repo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Offinsive tweets classification</title>
+      <link>https://abdallah197.github.io/project/twitter-offinsive/</link>
+      <pubDate>Sun, 21 Jul 2019 23:17:15 +0200</pubDate>
+      <guid>https://abdallah197.github.io/project/twitter-offinsive/</guid>
+      <description>&lt;h2 id=&#34;school-assignment&#34;&gt;School Assignment&lt;/h2&gt;
+&lt;h3 id=&#34;task-description&#34;&gt;Task Description&lt;/h3&gt;
+&lt;p&gt;The task to be completed within this project is to develop and evaluate a system that processes&lt;/p&gt;
+&lt;p&gt;a single tweet and decides whether or not the tweet contains offensive language. This task&lt;/p&gt;
+&lt;p&gt;could be tackled as a binary text classification problem. To this end,  a dataset of&lt;/p&gt;
+&lt;p&gt;tweets annotated for offensiveness is provided in the repo. The files “train.tsv” and “dev.tsv” all have the same format.&lt;/p&gt;
+&lt;p&gt;The second column (text) contains the text of a tweet, the first column (label) contains an&lt;/p&gt;
+&lt;p&gt;offensiveness label:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;(NOT) Not Offensive - This post does not contain offense or profanity.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(OFF) Offensive - This post contains offensive language or a targeted (veiled or direct)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;offense&lt;/p&gt;
+&lt;p&gt;The table below shows a few examples of tweets that&lt;/p&gt;
+&lt;p&gt;have been annotated as offensive.&lt;/p&gt;
+&lt;p&gt;1/4&lt;/p&gt;
+&lt;p&gt;1 @USER Liberals are all Kookoo !!!&lt;/p&gt;
+&lt;p&gt;2 @USER @USER Most stupid tweet yet&amp;hellip;and yes&amp;hellip;its a libtard&lt;/p&gt;
+&lt;p&gt;3 @USER I bet the first ones she calls when she is being robbed is those&lt;/p&gt;
+&lt;p&gt;very same police . People are freaking stupid &amp;hellip;&lt;/p&gt;
+&lt;p&gt;4 @USER @USER Go home you’re drunk!!! @USER #MAGA #Trump2020 URL&lt;/p&gt;
+&lt;h3 id=&#34;baseline-classifier&#34;&gt;Baseline Classifier&lt;/h3&gt;
+&lt;p&gt;Naive bayes and svm classifiers were used as models.
+
+&lt;a href=&#34;https://github.com/abdallah197/Offensive-Language-Detection-on-Twitter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; to the repo.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Natural Language Understanding for Arabic Dialogue Systems</title>
+      <link>https://abdallah197.github.io/project/nlu/</link>
+      <pubDate>Sun, 21 Jan 2018 23:16:49 +0200</pubDate>
+      <guid>https://abdallah197.github.io/project/nlu/</guid>
+      <description>&lt;p&gt;Natural Language Understanding (NLU) is considered a core component in implementing dialogue systems. NLU has been greatly enhanced by deep learning techniques such as word embeddings and deep neural network architectures, but current NLP methods for Arabic language dialogue action classification or semantic decoding is mostly based on handcrafted rule-based systems and methods that use feature engineering, but without the benefit of any form of distributed representation of words. This paper presents an approach to use deep learning techniques for text classification and Named Entity Recognition for the domain of home automation in Arabic. To this end, we present an NLU module that can further be integrated with Automatic Speech Recognition (ASR), a Dialogue Manager (DM) and a Natural Language Generator (NLG) module to build a fully working dialogue system. The paper further describes our process of collecting and annotating the data, structuring the intent classifier and entity extractor models, and finally the evaluation of these methods on different benchmarks.
+
+&lt;a href=&#34;https://github.com/abdallah197/NLU--ArabicDialogueSystems&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt; to the repo&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
